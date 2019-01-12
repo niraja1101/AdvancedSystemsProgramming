@@ -1,0 +1,6 @@
+Steps for running code :
+
+1. Type make in terminal to compile files
+2. Run command ./com ./map ./red to run the application, output should appear on screen.
+
+It is assumed that the input file for mapper is input.txt. 
