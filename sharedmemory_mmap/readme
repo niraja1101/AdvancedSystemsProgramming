@@ -1,1 +1,1 @@
-
+Run code using ./combiner buffersize numberofreducers > output.txt
