@@ -1,1 +1,2 @@
-
+The binary is named comb
+Run binary as ./comb buffersize numberofreducers < input.txt
